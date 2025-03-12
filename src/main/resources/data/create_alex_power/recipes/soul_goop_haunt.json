@@ -1,0 +1,13 @@
+﻿{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "alexscaves:toxic_paste"
+    }
+  ],
+  "results": [
+    {
+      "item": "create_alex_power:soul_goop"
+    }
+  ]
+}

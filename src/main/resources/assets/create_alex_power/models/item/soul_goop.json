@@ -1,0 +1,6 @@
+﻿{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "create_alex_power:item/soul_goop"
+  }
+}

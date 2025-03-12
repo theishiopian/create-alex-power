@@ -1,0 +1,13 @@
+﻿{
+  "required": true,
+  "package": "com.theishiopian.create_alex_power.Mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.create_alex_power.refmap.json",
+  "mixins": [
+    "NuclearFurnaceMixin",
+    "INuclearFurnaceAccessor"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}

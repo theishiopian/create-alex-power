@@ -1,0 +1,9 @@
+﻿{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "create_alex_power:soul_goop"
+  },
+  "result": "alexscaves:toxic_paste",
+  "experience": 0.0,
+  "cookingtime": 200
+}
